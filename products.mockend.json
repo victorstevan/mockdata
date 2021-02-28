@@ -1,0 +1,14 @@
+{
+    "Product": {
+        "id": "int",
+        "name": "string",
+        "description": "string",
+        "photos": "Photo[]",
+        "price": "int"
+    },
+    "Photo": {
+        "photo1": "string",
+        "photo2": "string",
+        "photo3": "string"
+    }
+}
